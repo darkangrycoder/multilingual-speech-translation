@@ -1,0 +1,7 @@
+torch==2.1.0
+transformers==4.33.3
+whisper==1.2.0
+langchain==0.0.192
+gradio==3.41.1
+sentencepiece==0.1.96
+numpy==1.24.3
